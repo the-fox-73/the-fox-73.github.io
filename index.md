@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 # Here is my favor character: Dwayne Douglas "The Rock" Johnson
 ist ein US-amerikanisch-kanadischer[5] Schauspieler und ehemaliger Wrestler afrokanadisch-samoanischer Abstammung. Als Wrestler erhielt er insgesamt zehnmal den höchsten Titel der WWE und war damit einer der erfolgreichsten Akteure der Liga. Da sein Vater Wayde Bowles und sein Großvater Peter Maivia ebenfalls Wrestler waren, galt er als der erste „Superstar der dritten Generation“. 
+=======
+# Here is my favor character  
+>>>>>>> 038c8f2f73c77773451e9a440c9ec7e70990724a
